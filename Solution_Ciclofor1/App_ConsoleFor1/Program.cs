@@ -15,7 +15,7 @@ namespace App_ConsoleFor1
             a = Convert.ToInt32(Console.ReadLine());
             for (int i = 0; i < a; i++)
             {
-                Console.WriteLine("Lavoro TPSIT..");
+                Console.WriteLine("Lavoro TPSIT...");
             }
             Console.ReadLine();
         }
